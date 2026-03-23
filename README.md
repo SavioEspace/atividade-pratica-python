@@ -1,6 +1,6 @@
-# Atividade Prática - Aula 1
+# Atividade Prática 
 
-## Descrição
+## Aula 1
 Resolução da atividade prática utilizando Python e análise de dados.
 
 ## Conteúdo
@@ -12,7 +12,7 @@ Resolução da atividade prática utilizando Python e análise de dados.
 - Limpeza de dados
 - Reflexão final
 
-## Arquivo principal
+## Arquivo aula 1
 atividade_pratica_aula1_python_preenchida.ipynb
 
 ## Conclusão
@@ -24,3 +24,6 @@ A análise permitiu identificar padrões de vendas, inconsistências nos dados e
 - Filtragem e rankings
 - Análise temporal
 - Tratamento de inconsistências
+
+## Arquivo Aula 2
+atividade_aula2_COMPLETA_FINAL.ipynb
